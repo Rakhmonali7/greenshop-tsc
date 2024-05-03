@@ -55,7 +55,7 @@ const Footer: FC = () => {
             </h3>
             <p className="font-light text-xs">
               We are an online plant shop offering a wide range of cheap and
-              trendy plants.
+              trendy plants for our office and home.
             </p>
           </div>
           <div className="m-[23px] pr-[23px] border-r border-[#46A358] max-sm:border-r-0 max-sm:border-b-2 pb-[23px]">
